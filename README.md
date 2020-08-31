@@ -2,6 +2,8 @@
 # Ferramentas de controle de versão
 
 Mercurial
-GitLab
+GitLabe
+Git
+master
 Subversion
 CVS
